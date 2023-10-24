@@ -19,7 +19,7 @@ Customer review data for Britis Airways was collected from [Skytrax](https://www
 
 Following insights were uncovered as they are summed up in the one slide presentation.
 
-![Screenshot 2023-10-24 232723](https://github.com/tuhin35-3040/British-Airways-Works/assets/76171933/88efdbcb-67f4-491a-a9c5-f1607927d470)
+![British AIrways Task 1](https://github.com/tuhin35-3040/British-Airways-Works/assets/76171933/3cfef72c-5fde-4046-b895-07c276da6dbf)
 
 ### Task 2 - Predicting customer buying behaviour
 
