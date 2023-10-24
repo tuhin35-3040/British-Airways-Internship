@@ -27,4 +27,4 @@ Customers are more empowered than ever because they have access to a wealth of i
 
 This task involves building a high quality predictive to predict the successful bookings using customer bookings data.
 
-![image](https://user-images.githubusercontent.com/89634505/201471191-cdd85024-1691-4136-b9f8-b4b1d8d42f72.png)
+![British Airways Task-2](https://github.com/tuhin35-3040/British-Airways-Works/assets/76171933/abb111a3-a0df-4bdc-9680-921cdf766462)
